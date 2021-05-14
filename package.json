@@ -1,0 +1,25 @@
+{
+  "name": "vue-app",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.1",
+    "apexcharts": "2.2.0",
+    "vue3-apexcharts": "1.2.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.3.0",
+    "pug": "3.0.0",
+    "pug-plain-loader": "1.1.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+
+  }
+}
